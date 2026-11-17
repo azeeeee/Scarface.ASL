@@ -1,3 +1,5 @@
+This autosplitter will not do a final split just right after killing Sosa (yet). 
+
 Scarface.exe v1.0.0.2
 
 Algorithm : SHA256
